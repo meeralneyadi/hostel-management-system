@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/HMS/src/java/com/hms/ViewRoomsServlet.java</file>
+            <file>file:/C:/HMS/src/java/com/hms/EditRoomServlet.java</file>
+            <file>file:/C:/HMS/src/java/com/hms/BookRoomServlet.java</file>
+            <file>file:/C:/HMS/src/java/com/hms/UpdateRoomServlet.java</file>
+            <file>file:/C:/HMS/src/java/com/hms/ApproveBookingServlet.java</file>
+            <file>file:/C:/HMS/src/java/com/hms/RoomServlet.java</file>
+            <file>file:/C:/HMS/src/java/com/hms/AdminBookRoomPageServlet.java</file>
+            <file>file:/C:/HMS/src/java/com/hms/ChangeResidentRoomServlet.java</file>
+            <file>file:/C:/HMS/web/editRoom.jsp</file>
+            <file>file:/C:/HMS/src/java/com/hms/ViewBookingsServlet.java</file>
+            <file>file:/C:/HMS/src/java/com/hms/AdminBookRoomServlet.java</file>
+            <file>file:/C:/HMS/src/java/com/hms/ViewAvailableRoomsServlet.java</file>
+            <file>file:/C:/HMS/web/addRoom.jsp</file>
+        </group>
+    </open-files>
+</project-private>
